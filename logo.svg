@@ -1,0 +1,4 @@
+<svg height="300" width="200" version="1.1" xmlns="http://www.w3.org/2000/svg">
+        <polygon points="100, 10 200,182 0,182" fill="Green"/>
+        <text fill="White" font-size="25" x="80" y="125">NEW</text> 
+        </svg>
