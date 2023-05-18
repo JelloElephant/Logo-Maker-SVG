@@ -16,9 +16,11 @@ Create a simple sample SVG as a logo idea for a project
 
 
 ## License
+MIT
 
 
 ## Tests
+Two sets of tests exsist for each available logo shape, one set to instanciate each shape in a given color, the second set to create the shape and add colored text to the logo.
 
 
 ## Questions
