@@ -4,10 +4,10 @@
 A command line application that generates a simple logo for potential projects
 
 ## Installation
-Required dependancies for this project are:
-[Inquirer](https://www.npmjs.com/package/inquirer)
-[Jest](https://jestjs.io/)
-[FS](https://jestjs.io/)
+Required dependancies for this project are:  
+[Inquirer](https://www.npmjs.com/package/inquirer),
+[Jest](https://jestjs.io/),
+[FS](https://jestjs.io/),
 
 [MIT License](https://choosealicense.com/licenses/mit/)
 
